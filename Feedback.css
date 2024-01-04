@@ -21,6 +21,7 @@ form {
     max-width: 600px;
     margin: 20px auto;
     background: #fff;
+    /* hex color is same as rgb color we can also use them from other hex color website */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
