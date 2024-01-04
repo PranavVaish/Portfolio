@@ -20,8 +20,9 @@ h4 {
 form {
     max-width: 600px;
     margin: 20px auto;
-    background: #fff;
+    /* background: #fff; */
     /* hex color is same as rgb color we can also use them from other hex color website */
+    background-image:url(https://images.blocksurvey.io/cdn-cgi/imagedelivery/G6cPOuGZ4Z_bEV13gBxixw/template-category/event-experience.svg/l);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
