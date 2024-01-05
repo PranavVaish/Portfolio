@@ -60,23 +60,25 @@ img {
 
 /* Styling the video */
 video {
-    margin: 6px;
+    /* padding:10px; */
+    margin: 0px 0px 0px 125px; /* margin : top right bottom left*/
+    border: 2px solid rgb(99, 129, 170);
+    border-radius: 5px;
     /* width :"120"; */
 }
 
 /* Applying some styles to lists */
 ul, ol {
     margin-left: 20px;
-    span
-    {
-        color:#007bff;
 }
+span {
+    color:#007bff;
 }
 
 /* Styling the iframe */
 iframe {
    /* height: 315px; */
-    /* width :"760"; */
+    /* width :"760"; */border-radius: 5px;
     border: 2px solid;
 }
 
