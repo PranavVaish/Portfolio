@@ -77,9 +77,9 @@ span {
 
 /* Styling the iframe */
 iframe {
-   /* height: 315px; */
-    /* width :"760"; */border-radius: 5px;
-    border: 2px solid;
+   /* height: 315px; width :"760"; */
+   border-radius: 5px;
+   border: 2px solid;
 }
 
 /* Adding some spacing to the pre tag */
