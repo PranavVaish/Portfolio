@@ -40,7 +40,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
+a:active{
+    color: #e65ff3;
+}
+/* a:visited{
+    color: #61199f;
+} */
+.btn{
+    color: #007bff;
+    background-color:#b3cae0;
+    border-radius: 3px ;
+    border: 1px solid rgb(118, 113, 173);
+}
 /* Styling the footer */
 footer {
     text-align: center;
