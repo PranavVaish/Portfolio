@@ -41,9 +41,7 @@ header {
     text-align: center;
     color: white;
 }
-/* #top{
-    height: 50;
-} */
+
 /* Applying styles to headings */
 h1, h2, h3, h4 {
     color: #007bff;
@@ -87,12 +85,12 @@ footer {
     font-weight: bold;
 }
 /* Adding some spacing and borders to images */
-/* img {
+img {
     margin: auto;
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 5px;
-} */
+    padding: 4px;
+}
 
 /* Styling the video */
 video {
